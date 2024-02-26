@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comprehensive Puppy Care and Training Guide</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+            background-color: #e7e7e7;
+        }
+        header, footer {
+            background: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            background: #f9f9f9;
+        }
+        h1, h2 {
+            color: #005a87;
+        }
+        p, ul {
+            margin: 10px 0;
+        }
+        .chapter {
+            background: #ffffff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .citation {
+            font-style: italic;
+            font-size: 0.8em;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Comprehensive Puppy Care and Training Guide</h1>
+</header>
+
+<main>
+    <!-- Introduction -->
+    <div class="chapter">
+        <h2>Welcome to Your Puppy Care and Training Guide</h2>
+        <p>Welcome to the ultimate guide for new puppy parents! This guide is designed to walk you through the crucial stages of puppy development, care, and training. From understanding your puppy's behavior to mastering potty training and beyond, we've got you covered. Let's create a happy, healthy, and well-behaved companion together.</p>
+    </div>
+
+    <!-- Chapter 1: Understanding Puppy Behavior -->
+    <div class="chapter">
+        <h2>Chapter 1: Understanding Puppy Behavior</h2>
+        <p>Understanding the stages of puppy development is crucial for effective training and bonding. Puppies go through several stages, each with its unique challenges and milestones.</p>
+        <ul>
+            <li><strong>Neonatal Period (0-2 Weeks):</strong> Puppies are entirely dependent on their mother for warmth and nutrition. They spend most of their time sleeping and eating.</li>
+            <li><strong>Transitional Period (2-4 Weeks):</strong> Puppies begin to open their eyes, hear, and start to walk. They become more aware of their surroundings and littermates.</li>
+            <li><strong>Socialization Period (4-14 Weeks):</strong> A critical period where puppies learn to interact with other dogs and humans. Exposure to various people, animals, and environments during this stage is vital for developing a well-adjusted adult dog.</li>
+            <li><strong>Juvenile Period (4-6 Months):</strong> Puppies continue to grow and learn about their environment. It's an excellent time to start basic training commands.</li>
+        </ul>
+        <p class="citation">Citation: "Puppy Development Stages with Growth Charts and Week by Week Guide," The Happy Puppy Site.</p>
+    </div>
+
+    <!-- Chapter 2: Setting Up for Success -->
+    <div class="chapter">
+        <h2>Chapter 2: Setting Up for Success</h2>
+        <p>Preparing your home for a new puppy is essential for their safety and your peace of mind. Here's what you need to get started:</p>
+        <ul>
+            <li><strong>Supplies:</strong> High-quality puppy food, water and food bowls, comfortable bed, crate, chew toys, and grooming tools.</li>
+            <li><strong>Home Preparation:</strong> Puppy-proof your home by securing electrical cords, removing toxic plants, and setting up a designated puppy area.</li>
+            <li><strong>Routine:</strong> Establish a consistent routine for feeding, potty breaks, playtime, and training to help your puppy feel secure and aid in their development.</li>
+        </ul>
+        <p class="citation">Citation: "New Puppy Checklist," American Kennel Club.</p>
+    </div>
+
+    <!-- Chapter 3: Potty Training -->
+    <div class="chapter">
+        <h2>Chapter 3: Potty Training</h2>
+        <p>Potty training is a pivotal part of puppy care that requires patience and consistency. Follow these steps for a successful potty training experience:</p>
+        <ul>
+            <li><strong>Establish a Routine:</strong> Take your puppy outside frequently, especially after they wake up, during and after playing, and after eating or drinking.</li>
+            <li><strong>Pick a Potty Spot:</strong> Choose a specific spot outside for your puppy to do their business. Consistently taking them to the same spot will help them learn where it's appropriate to go.</li>
+            <li><strong>Use Positive Reinforcement:</strong> Reward your puppy with treats and praise immediately after they go potty in the correct spot.</li>
+            <li><strong>Manage Accidents:</strong> Accidents happen. When they do, clean up thoroughly to remove any scent markers that might attract them back to the same spot.</li>
+        </ul>
+        <p class="citation">Citation: "House Training Your Puppy," PetMD.</p>
+    </div>
+
+    <!-- Add more chapters as needed based on your research -->
+
+</main>
+
+<footer>
+    <p>© 2024 Comprehensive Puppy Care and Training Guide</p>
+</footer>
+
+</body>
+</html>
